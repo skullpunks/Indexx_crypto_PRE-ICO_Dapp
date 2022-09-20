@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7d46da1.css",
-    "main.js": "/static/js/main.ee522ccc.js",
+    "main.css": "/static/css/main.0fa6794b.css",
+    "main.js": "/static/js/main.c70725b5.js",
     "static/media/company-logo.gif": "/static/media/company-logo.bded4e3b404971ae398d.gif",
     "static/media/etherum-icon.svg": "/static/media/etherum-icon.4040a5085cfdce4aeae43d229f974467.svg",
     "static/media/bnb-icon.svg": "/static/media/bnb-icon.b6d3be527e479f603b804254b559090c.svg",
@@ -11,11 +11,11 @@
     "static/media/bottom-arrow.svg": "/static/media/bottom-arrow.9cf7d0c8857494c7ac3d293b58930502.svg",
     "static/media/busd-icon.svg": "/static/media/busd-icon.f2a394e97a60eaf49851474c19382ab4.svg",
     "index.html": "/index.html",
-    "main.d7d46da1.css.map": "/static/css/main.d7d46da1.css.map",
-    "main.ee522ccc.js.map": "/static/js/main.ee522ccc.js.map"
+    "main.0fa6794b.css.map": "/static/css/main.0fa6794b.css.map",
+    "main.c70725b5.js.map": "/static/js/main.c70725b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7d46da1.css",
-    "static/js/main.ee522ccc.js"
+    "static/css/main.0fa6794b.css",
+    "static/js/main.c70725b5.js"
   ]
 }
